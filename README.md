@@ -19,3 +19,17 @@ The project demonstrates how policy-level insurance data can be transformed into
 - [How to Use the Project](#how-to-use-the-project)
 - [Future Enhancements](#future-enhancements)
 - [Disclaimer](#disclaimer)
+
+## Project Overview
+
+Insurance companies manage policies with different durations, premium structures, protection values, maturity benefits, payment frequencies, and sales channels.
+
+Analyzing this information in raw tables can make it difficult to understand portfolio performance and identify important business trends.
+
+This Power BI project converts insurance policy data into an interactive analytical dashboard that helps users evaluate:
+
+- Policy volume
+- Premium collection
+- Premium payable exposure
+- Maturity value
+- Protection value
