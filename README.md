@@ -671,7 +671,7 @@ These checks are important because incorrect data definitions can lead to mislea
 
 ### Annual Premium vs. Protection Value
 
-![Annual Premium vs Protection Value](screenshots/annual-premium-vs-protection.png)
+![Annual Premium vs Protection Value](screenshots/Annual Premium vs Protection Value.png)
 
 ### Premium Analysis
 
