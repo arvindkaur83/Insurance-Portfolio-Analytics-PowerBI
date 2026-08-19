@@ -724,25 +724,6 @@ Insurance-Portfolio-Analytics-PowerBI/
 
 ---
 
-## Future Enhancements
-
-Possible future improvements include:
-
-- Policy renewal analysis
-- Policy lapse analysis
-- Customer retention analysis
-- Claim frequency analysis
-- Claim severity analysis
-- Loss ratio analysis
-- Cohort analysis by policy issue year
-- Forecasting of future premium collections
-- Regional target-versus-actual analysis
-- Row-level security for different business users
-- Drill-through pages for agents and policies
-- Automated refresh through Power BI Service
-
----
-
 ## Skills Demonstrated
 
 This project demonstrates practical experience with:
