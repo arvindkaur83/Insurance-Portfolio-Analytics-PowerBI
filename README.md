@@ -661,13 +661,17 @@ These checks are important because incorrect data definitions can lead to mislea
 
 ## Screenshots
 
+### Summary of the Data
+
+![Summary of the Data](Screenshots/Summary-of-the-data.jpg)
+
 ### Insurance Overview
 
 ![Insurance Overview](Screenshots/Insurance-Overview.jpg)
 
 ### Investment Value vs. Maturity Value
 
-![Investment Value vs Maturity Value](screenshots/investment-vs-maturity.png)
+![Investment Value vs Maturity Value](screenshots/Investment-Value-vs-Maturity-Value.jpg)
 
 ### Annual Premium vs. Protection Value
 
@@ -675,11 +679,11 @@ These checks are important because incorrect data definitions can lead to mislea
 
 ### Premium Analysis
 
-![Premium Analysis](screenshots/premium-analysis.png)
+![Premium Analysis](Screenshots/Premium-Analysis(5-20years).jpg)
 
 ### Sales Hierarchy
 
-![Sales Hierarchy](screenshots/sales-hierarchy.png)
+![Sales Hierarchy](Screenshots/Sales-Hierarchy.jpg)
 
 ---
 
@@ -692,11 +696,12 @@ Insurance-Portfolio-Analytics-PowerBI/
 ├── Insurance_Portfolio_Analytics.pbix
 │
 ├── screenshots/
-│   ├── insurance-overview.png
-│   ├── investment-vs-maturity.png
-│   ├── annual-premium-vs-protection.png
-│   ├── premium-analysis.png
-│   └── sales-hierarchy.png
+    ├── Summary-of-the-data.jpg
+│   ├── Insurance-Overview.jpg
+│   ├── Investment-Value-vs-Maturity-Value.jpg
+│   ├── Annual-Premium-vs-Protection-Value.jpg
+│   ├── Premium-Analysis(5-20years).jpg
+│   └── Sales-Hierarchy.jpg
 │
 └── documentation/
     ├── dax-measures.md
