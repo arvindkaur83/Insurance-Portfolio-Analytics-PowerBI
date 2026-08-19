@@ -23,6 +23,7 @@ The project demonstrates how policy-level insurance data can be transformed into
 - [Screenshots](#screenshots)
 - [Repository Structure](#repository-structure)
 - [How to Use the Project](#how-to-use-the-project)
+- [Future Enhancements](#future-enhancements)
 - [Disclaimer](#disclaimer)
 
 ---
@@ -740,7 +741,11 @@ This project demonstrates practical experience with:
 - Portfolio performance analysis
 
 ---
+## Future Enhancements
 
+Role-Based Analytics: In future iterations, the dashboard could be extended with role-specific views for executives, managers, and operational users, with each level receiving an appropriate degree of strategic or granular information. Row-Level Security (RLS) could also be introduced to control data access based on organizational roles and responsibilities.
+
+---
 ## Disclaimer
 
 This project is intended for educational and portfolio purposes.
