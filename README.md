@@ -663,7 +663,7 @@ These checks are important because incorrect data definitions can lead to mislea
 
 ### Insurance Overview
 
-![Insurance Overview](screenshots/insurance-overview.png)
+![Insurance Overview](Screenshots/Insurance-Overview.jpg)
 
 ### Investment Value vs. Maturity Value
 
