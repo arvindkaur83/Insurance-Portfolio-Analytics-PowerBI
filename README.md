@@ -23,7 +23,6 @@ The project demonstrates how policy-level insurance data can be transformed into
 - [Screenshots](#screenshots)
 - [Repository Structure](#repository-structure)
 - [How to Use the Project](#how-to-use-the-project)
-- [Future Enhancements](#future-enhancements)
 - [Disclaimer](#disclaimer)
 
 ---
