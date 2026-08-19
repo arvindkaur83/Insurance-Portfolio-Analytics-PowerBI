@@ -671,7 +671,7 @@ These checks are important because incorrect data definitions can lead to mislea
 
 ### Investment Value vs. Maturity Value
 
-![Investment Value vs Maturity Value](screenshots/Investment-Value-vs-Maturity-Value.jpg)
+![Investment Value vs Maturity Value](Screenshots/Investment-Value-vs-Maturity-Value.jpg)
 
 ### Annual Premium vs. Protection Value
 
